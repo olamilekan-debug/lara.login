@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url('/login/cute_img.jpg');
+    background-image: url('cute_img.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
